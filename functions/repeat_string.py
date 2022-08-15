@@ -1,6 +1,6 @@
 str_series = input()
 num_operation = int(input())
-oper =  lambda a, b: a * b
+oper = lambda a, b: a * b
 result = oper(str_series, num_operation)
 print(result)
 
